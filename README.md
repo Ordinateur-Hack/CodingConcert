@@ -1,2 +1,2 @@
 # CodingConcert
-Source code of CodingConcert.com
+Source code of [CodingConcert.com](https://codingconcert.com/)
