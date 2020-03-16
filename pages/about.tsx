@@ -10,7 +10,7 @@ const About = () => {
     <Container maxWidth="sm">
       <Box my={4}>
         <Typography variant="h4" component="h1" gutterBottom>
-          About the "Live RegFileViewer"
+          About CodingConcert
         </Typography>
         <Link href="/">Back to Home</Link>
         <Typography variant="body1" gutterBottom>
